@@ -1,0 +1,13 @@
+/*Paragraph styling */
+p {
+    text-align: left;
+    background-color: brown;
+    margin: 20px;
+}
+/*Main content box*/
+div {
+    margin: 20px;
+    border: 2px  solid salmon;
+    background-color: beige;
+    padding: 10px;
+}
